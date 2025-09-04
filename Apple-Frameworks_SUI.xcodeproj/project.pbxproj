@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FAA976442E6344A0002EFB96 /* Apple-Frameworks_SUI */ = {
+		FA39E4BB2E6A168000F1EA04 /* Apple-Frameworks_SUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Apple-Frameworks_SUI";
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		FAA976392E6344A0002EFB96 = {
 			isa = PBXGroup;
 			children = (
-				FAA976442E6344A0002EFB96 /* Apple-Frameworks_SUI */,
+				FA39E4BB2E6A168000F1EA04 /* Apple-Frameworks_SUI */,
 				FAA976432E6344A0002EFB96 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FAA976442E6344A0002EFB96 /* Apple-Frameworks_SUI */,
+				FA39E4BB2E6A168000F1EA04 /* Apple-Frameworks_SUI */,
 			);
 			name = "Apple-Frameworks_SUI";
 			packageProductDependencies = (
